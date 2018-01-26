@@ -5,6 +5,6 @@
 
 25/01/2018  21:41    <DIR>          .
 25/01/2018  21:41    <DIR>          ..
-25/01/2018  21:41                 0 SEVVEP01.md
+25/01/2018  22:02                 0 SEVVEP01.md
                1 arquivo(s)              0 bytes
-               2 pasta(s)   288.756.088.832 bytes dispon¡veis
+               2 pasta(s)   288.330.539.008 bytes dispon¡veis
